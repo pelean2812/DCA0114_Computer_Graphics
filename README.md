@@ -4,6 +4,10 @@
 
 ![saturno](saturn.png)
 
+## Como rodar o proejto
+
+Após baixar o arquivo saturn.c rode o comando ```gcc -o saturn saturn.c -lm -lGL -lGLU -lglut```, após isso será criado um arquivo chamado saturn, daí, basta abrir em seu computador.
+
 - As variáveis rotationX e rotationY controlam a rotação da cena no eixo X e Y, respectivamente.
 - As variáveis translateX e translateY controlam a translação da cena no eixo X e Y, respectivamente.
 - A variável zoom controla o nível de zoom da cena.
