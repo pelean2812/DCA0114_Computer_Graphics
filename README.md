@@ -1,6 +1,6 @@
 # DCA0114_Computer_Graphics
 
-Esta é a implementação de um programa em C, que utilizando as bibliotecas do openGL, faz o desenho do planeta saturno e algumas luas.
+## Esta é a implementação de um programa em C, que utilizando as bibliotecas do openGL, faz o desenho do planeta saturno e algumas luas.
 
 ![saturno](saturn.png)
 
