@@ -2,6 +2,8 @@
 
 Esta é a implementação de um programa em C, que utilizando as bibliotecas do openGL, faz o desenho do planeta saturno e algumas luas.
 
+![saturno](saturn.png)
+
 - As variáveis rotationX e rotationY controlam a rotação da cena no eixo X e Y, respectivamente.
 - As variáveis translateX e translateY controlam a translação da cena no eixo X e Y, respectivamente.
 - A variável zoom controla o nível de zoom da cena.
