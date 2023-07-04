@@ -1,5 +1,9 @@
 # DCA0114_Computer_Graphics
 
+## Grupo:
+- Pedro Leandro Batista Marques - 20220080427
+- Thiago Jordão Melo da Costa - 20210094278
+
 ### Esta é a implementação de um programa em C, que utilizando as bibliotecas do openGL, faz o desenho do planeta saturno e algumas luas.
 
 ![saturno](saturn.png)
